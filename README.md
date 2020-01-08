@@ -20,6 +20,7 @@ Oculus Rift
 
 ### Visuals: 
 <!-- Screenshots (concept and experience), Video-->
+
 <a href="pics/WhatsApp%20Image%202020-01-08%20at%2014.11.57-2.jpeg"></a>
 <a href="pics/WhatsApp%20Image%202020-01-08%20at%2014.11.57.jpeg"></a>
 
