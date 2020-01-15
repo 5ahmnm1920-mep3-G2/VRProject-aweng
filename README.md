@@ -6,13 +6,14 @@ In the middl of the room is a big old tree, you can enter trough an old wooden d
 Nearby the door are three differnt keys you can try to open the door, but none of them will work. The riddle is to figure out you have to spin the globus in the back of the room to open the door.
 
 ### Controls:
-look around by moving your head with the oculus rift headset
-locomotion via teleporting on teleporting area
+look around by moving your head with the oculus rift headset<br>
+locomotion via teleporting on teleporting area<br>
 movement with the buttons: a,b,x,y
 
 ### Development platform: 
 macOS Mojave
-Unity version 2019.1.14f1
+<br>
+Unity version 2019.1.14f1<br>
 Visual Studio Community 2017
 
 ### Target platform: 
@@ -37,7 +38,7 @@ Tree 3D Model: https://poly.google.com/view/74_FuSwEd0E
 ### Limitations: 
 
 ### Lessons Learned: 
-unity install
+unity install<br>
 VR Setup
 
 Copyright by you :)
