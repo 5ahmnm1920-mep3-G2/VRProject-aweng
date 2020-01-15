@@ -28,13 +28,16 @@ Oculus Rift
 <!-- Installation process, e.g. step by step instructions that I can run the project after cloning it-->
 
 ### Third party material: 
+Tree 3D Model: https://poly.google.com/view/74_FuSwEd0E
 <!-- (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)-->
 
 ### Project state: 
-10%
+30%
 
 ### Limitations: 
 
 ### Lessons Learned: 
+unity install
+VR Setup
 
 Copyright by you :)
