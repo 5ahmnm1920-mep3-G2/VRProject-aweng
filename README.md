@@ -21,8 +21,8 @@ Oculus Rift
 
 ### Visuals: 
 <!-- Screenshots (concept and experience), Video-->
-![alt text](pics/firstpage.jpeg "Logo Title Text 1")
-![alt text](pics/secondpage.jpeg "Logo Title Text 1")
+![alt text](pics/firstpage.jpeg =100x100 "Logo Title Text 1")
+![alt text](pics/secondpage.jpeg =100x100  "Logo Title Text 1")
 
 <img scr="pics/firstpage.jpeg" width="500"> 
 <img scr="pics/secondpage.jpeg" width="500">
