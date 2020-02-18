@@ -32,6 +32,9 @@ Oculus Rift
 
 ### Third party material: 
 Tree 3D Model: https://poly.google.com/view/74_FuSwEd0E
+Key 3D Model: https://poly.google.com/view/0J_HflIStKl
+Keyhole 3D Model: https://poly.google.com/view/4rAz_m7CsXz
+Wooden Sign: https://poly.google.com/view/do49XXyyqML
 <!-- (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)-->
 
 ### Project state: 
