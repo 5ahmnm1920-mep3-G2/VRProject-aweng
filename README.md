@@ -20,6 +20,7 @@ Visual Studio Community 2017
 Oculus Rift 
 
 ### Visuals: 
+(here are supposed to be pictures)
 <!-- Screenshots (concept and experience), Video-->
 ![alt text](pics/firstpage.jpeg =100x100)
 ![alt text](pics/secondpage.jpeg =100x100)
@@ -31,19 +32,21 @@ Oculus Rift
 <!-- Installation process, e.g. step by step instructions that I can run the project after cloning it-->
 
 ### Third party material: 
-Tree 3D Model: https://poly.google.com/view/74_FuSwEd0E
-Key 3D Model: https://poly.google.com/view/0J_HflIStKl
-Keyhole 3D Model: https://poly.google.com/view/4rAz_m7CsXz
-Wooden Sign: https://poly.google.com/view/do49XXyyqML
+Tree 3D Model: https://poly.google.com/view/74_FuSwEd0E<br>
+Key 3D Model: https://poly.google.com/view/0J_HflIStKl<br>
+Keyhole 3D Model: https://poly.google.com/view/4rAz_m7CsXz<br>
+Wooden Sign: https://poly.google.com/view/do49XXyyqML<br>
 <!-- (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)-->
 
 ### Project state: 
-30%
+70%
 
-### Limitations: 
+### Limitations:
+You can't interact with the globe and spin him faster, so you can't win the game.
 
 ### Lessons Learned: 
 unity install<br>
-VR Setup
+VR Setup<br>
+keep calm during work
 
 Copyright by you :)
