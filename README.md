@@ -22,8 +22,6 @@ Oculus Rift
 ### Visuals: 
 (here are supposed to be pictures)
 <!-- Screenshots (concept and experience), Video-->
-![alt text](pics/firstpage.jpeg =100x100)
-![alt text](pics/secondpage.jpeg =100x100)
 
 <img scr="pics/firstpage.jpeg" width="500"> 
 <img scr="pics/secondpage.jpeg" width="500">
